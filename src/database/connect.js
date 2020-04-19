@@ -11,10 +11,10 @@ const client = new Client({
     ssl: true
 })
 client.connect();
-//client.query('SELECT * from NT', (err, res) => {
-//    console.log(err, res);
-//    client.end();
-//});
+client.query('SELECT * from NT', (err, res) => {
+    console.log(err, res);
+    client.end();
+});
 
 
 
