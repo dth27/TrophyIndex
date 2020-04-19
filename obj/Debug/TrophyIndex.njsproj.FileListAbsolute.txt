@@ -1,0 +1,2 @@
+C:\Users\vt_advania_dth\Workspace\trophyIndex\TrophyIndexBackend\TrophyIndex\obj\Debug\TrophyIndex.njsprojAssemblyReference.cache
+C:\Users\vt_advania_dth\Workspace\trophyIndex\TrophyIndexBackend\TrophyIndex\bin\Microsoft.NodejsTools.WebRole.dll
